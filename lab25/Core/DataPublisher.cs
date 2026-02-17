@@ -4,16 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab25.Core;
-
-public class DataPublisher
+namespace lab25.Core
 {
-    public event EventHandler<string>? DataProcessed;
-
-
-    public void PublishDataProcessed(string processedData)
+    public class DataPublisher
     {
-        DataProcessed?.Invoke(this, processedData);
+        public delegate void DataProcessedHandler(object? sender, string processedData);
+        public event DataProcessedHandler? DataProcessed;
+
+        public void PublishDataProcessed(string processedData)
+        {
+            DataProcessed?.Invoke(this, processedData);
+        }
     }
 }
+
 

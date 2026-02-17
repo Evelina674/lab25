@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|c:\\users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|solutionrelative:lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|c:\\users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\core\\processingloggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +12,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|c:\\users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\core\\datapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|solutionrelative:lab25\\core\\datapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|c:\\users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|solutionrelative:lab25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D737D4-A056-4847-80CD-34DBFEB52657}|lab25\\lab25.csproj|c:\\users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\core\\idataprocessorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,8 +69,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALsUAAAAAAAAAAAuwNAUAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-17T21:59:15.543Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -76,7 +92,7 @@
               "RelativeDocumentMoniker": "lab25\\Core\\DataPublisher.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\DataPublisher.cs",
               "RelativeToolTip": "lab25\\Core\\DataPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:59:59.612Z",
               "EditorCaption": ""
@@ -89,14 +105,14 @@
               "RelativeDocumentMoniker": "lab25\\Core\\ProcessingLoggerObserver.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\ProcessingLoggerObserver.cs",
               "RelativeToolTip": "lab25\\Core\\ProcessingLoggerObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T21:01:16.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Program.cs",
               "RelativeDocumentMoniker": "lab25\\Program.cs",
@@ -109,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IDataProcessorStrategy.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\IDataProcessorStrategy.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\IDataProcessorStrategy.cs",
@@ -117,12 +133,11 @@
               "RelativeToolTip": "lab25\\Core\\IDataProcessorStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:56:09.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:56:09.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoggerManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\LoggerManager.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\LoggerManager.cs",
@@ -130,12 +145,11 @@
               "RelativeToolTip": "lab25\\Core\\LoggerManager.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:25:14.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:25:14.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoggerFactory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\LoggerFactory.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\LoggerFactory.cs",
@@ -143,12 +157,11 @@
               "RelativeToolTip": "lab25\\Core\\LoggerFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:23:01.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:23:01.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ILogger.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\ILogger.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\ILogger.cs",
@@ -156,12 +169,11 @@
               "RelativeToolTip": "lab25\\Core\\ILogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:19:45.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:19:45.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FileLoggerFactory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\FileLoggerFactory.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\FileLoggerFactory.cs",
@@ -169,12 +181,11 @@
               "RelativeToolTip": "lab25\\Core\\FileLoggerFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:24:32.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:24:32.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FileLogger.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\FileLogger.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\FileLogger.cs",
@@ -182,12 +193,11 @@
               "RelativeToolTip": "lab25\\Core\\FileLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:22:04.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:22:04.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EncryptDataStrategy.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\EncryptDataStrategy.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\EncryptDataStrategy.cs",
@@ -195,12 +205,11 @@
               "RelativeToolTip": "lab25\\Core\\EncryptDataStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:57:06.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:57:06.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\DataContext.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\DataContext.cs",
@@ -208,12 +217,11 @@
               "RelativeToolTip": "lab25\\Core\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:59:25.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:59:25.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ConsoleLoggerFactory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\ConsoleLoggerFactory.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\ConsoleLoggerFactory.cs",
@@ -221,12 +229,11 @@
               "RelativeToolTip": "lab25\\Core\\ConsoleLoggerFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:23:53.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:23:53.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ConsoleLogger.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\ConsoleLogger.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\ConsoleLogger.cs",
@@ -234,12 +241,11 @@
               "RelativeToolTip": "lab25\\Core\\ConsoleLogger.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:21:00.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:21:00.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CompressDataStrategy.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\lab 25\\lab25\\lab25\\Core\\CompressDataStrategy.cs",
               "RelativeDocumentMoniker": "lab25\\Core\\CompressDataStrategy.cs",
@@ -247,8 +253,7 @@
               "RelativeToolTip": "lab25\\Core\\CompressDataStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:58:28.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:58:28.43Z"
             }
           ]
         }
